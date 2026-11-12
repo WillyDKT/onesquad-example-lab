@@ -1,0 +1,26 @@
+{
+  "target": {
+    "schema_version": 1,
+    "upstream": "WillyDKT/onesquad-update-lab",
+    "version": "1.2.0",
+    "commit": "c257ba2cd32d5ffafc2c1325f83105e2fffd33a1",
+    "updates_enabled": true
+  },
+  "summary": {
+    "from_version": "1.0.0",
+    "to_version": "1.2.0",
+    "changes": [
+      "scripts/onesquad-check-version.py"
+    ],
+    "conflicts": [
+      "AGENTS.md"
+    ]
+  },
+  "conflicts": [
+    {
+      "path": "AGENTS.md",
+      "reason": "Overlapping text changes or unsupported binary content",
+      "local_sha256": "2e210288292150022547d92887d4674c75eedf3b9892c1fc5131698b654a1963"
+    }
+  ]
+}
