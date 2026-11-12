@@ -14,3 +14,9 @@ Client-specific rule: do not modify production configuration during documentatio
 ## Local conventions
 
 Document the adopting team's local conventions in a dedicated section before merging updates.
+
+## Agentic routing
+
+For payment-related tasks, start with the payments maintainer and the client API.
+For incident analysis, consult docs/run/ before changing application code.
+Keep our client-specific routing rules; do not replace them with generic defaults.
