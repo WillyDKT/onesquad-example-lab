@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "upstream": "WillyDKT/onesquad-update-lab",
-  "version": "1.0.0",
-  "commit": "44ab5bc126a938d4094ec04ce16ec08db4f6fa75",
+  "version": "1.2.0",
+  "commit": "c257ba2cd32d5ffafc2c1325f83105e2fffd33a1",
   "updates_enabled": true
 }

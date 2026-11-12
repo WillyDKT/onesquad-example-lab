@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Keep related project documentation aligned with changes.
+Keep related project documentation aligned with changes and link it to the feature.
 
 ## Review
 
@@ -10,4 +10,4 @@ Ask a project maintainer to review changes before merging.
 
 ## Local conventions
 
-Our team uses kebab-case for feature directories and requires a developer review.
+Document the adopting team's local conventions in a dedicated section before merging updates.
