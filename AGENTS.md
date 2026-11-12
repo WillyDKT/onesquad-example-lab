@@ -19,3 +19,7 @@ For product requirements, consult docs/project/ before proposing changes.
 For technical decisions, consult docs/architecture/ and the affected application.
 For operational questions, consult docs/run/.
 Use optional skills when relevant; agent routing does not authorize automatic merges.
+
+## Client rules
+
+Keep our payments-owner review.
